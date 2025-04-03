@@ -30,7 +30,7 @@ const Converter = () => {
   return (
     <div className="p-8 bg-white shadow-xl rounded-2xl max-w-lg mx-auto">
       <h2 className="text-2xl font-extrabold text-gray-800 mb-6 text-center">
-        Currency Converter
+        Glomyers Rate
       </h2>
       <div className="mb-4">
         <label className="block text-gray-600 font-medium mb-2">From Currency:</label>
